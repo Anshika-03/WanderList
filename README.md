@@ -87,12 +87,6 @@ wanderlist/
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Anshika-03/WanderList/issues).
-
----
-
 ## 📝 License
 
 This project is open-source under the [MIT License](LICENSE).
